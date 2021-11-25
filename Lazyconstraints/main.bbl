@@ -1,0 +1,17 @@
+\begin{thebibliography}{1}
+
+\bibitem{Gurobi}
+Gurobi documents.
+\newblock \url{https://www.gurobi.com/documentation/}.
+
+\bibitem{miller1960integer}
+Clair~E Miller, Albert~W Tucker, and Richard~A Zemlin.
+\newblock Integer programming formulation of traveling salesman problems.
+\newblock {\em Journal of the ACM (JACM)}, 7(4):326--329, 1960.
+
+\bibitem{pearce2019towards}
+Robin~Harris Pearce.
+\newblock Towards a general formulation of lazy constraints.
+\newblock 2019.
+
+\end{thebibliography}
